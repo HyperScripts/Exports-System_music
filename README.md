@@ -1,4 +1,4 @@
-# 📁 Documentação disponível do [Sistema VIP](https://github.com/HyperScripts/Exports-System-Vip/wiki/Sistema-VIP)
+# 📁 Documentação disponível do [Sistema de música](https://github.com/HyperScripts/Exports-System_music/wiki)
 
 ### ⚠ Caso não entenda de como utilizar as exportações disponíveis, abra um ticket em nossa loja para mais detalhes.
 
